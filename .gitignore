@@ -1,0 +1,4 @@
+# Environment files (keep the .example templates)
+.env
+**/.env
+!**/.env.example
